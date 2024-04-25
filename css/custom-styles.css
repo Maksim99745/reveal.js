@@ -1,0 +1,22 @@
+#slides {
+  text-align: left;
+}
+
+.list {
+  font-size: 30px;
+}
+
+.h2 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+}
