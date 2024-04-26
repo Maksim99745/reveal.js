@@ -1,5 +1,10 @@
 #slides {
   text-align: left;
+  text-align: justify;
+}
+
+section {
+  text-align: justify;
 }
 
 .list {

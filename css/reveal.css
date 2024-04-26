@@ -1826,6 +1826,10 @@ html.reveal-full-page {
   perspective-origin: 50% 50%;
 }
 
+.rtl {
+  text-align: justify;
+}
+
 .reveal .roll:hover {
   background: none;
   text-shadow: none;
